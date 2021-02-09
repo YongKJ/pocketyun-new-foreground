@@ -1,0 +1,24 @@
+.blue-cell {
+  cursor: pointer;
+  color: #409EFF;
+}
+.cell-display {
+/*   display: none; */
+}
+.el-message-box {
+  width: 350px !important;
+}
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  margin-left:93px;
+}
+.avatar-uploader .el-upload:hover {
+  border-color: #409EFF;
+}
+body{
+  height: 100%;
+}
